@@ -1,2 +1,1 @@
-# XY-Plotter-ESP32
-MicroController
+# ESP32_XYPlotter
